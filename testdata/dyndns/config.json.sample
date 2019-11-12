@@ -1,0 +1,9 @@
+{
+  "customerName": "dyn_customer_name",
+  "username": "dyn_username",
+  "zonename": "dyn_zonename",
+  "passwordSecretRef": {
+      "name": "dyndns-password",
+      "key": "password"
+  }
+}
